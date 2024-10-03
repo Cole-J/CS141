@@ -1,0 +1,14 @@
+Region Name: cure for cancer protein
+Nucleotides: ATGCCACTATGGTAG
+Nuc. Counts: [4, 3, 4, 4]
+Total Mass%: [27.3, 16.8, 30.6, 25.3]
+Codons List: [ATG, CCA, CTA, TGG, TAG]
+Is Protein?: YES
+
+Region Name: captain picard hair growth protein
+Nucleotides: ATGCCAACATGGATGCCCGATATGGATTGA
+Nuc. Counts: [9, 6, 8, 7]
+Total Mass%: [30.7, 16.8, 30.5, 22.1]
+Codons List: [ATG, CCA, ACA, TGG, ATG, CCC, GAT, ATG, GAT, TGA]
+Is Protein?: YES
+
